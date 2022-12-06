@@ -46,6 +46,6 @@
 
 
 ## <div align="center">Youtube Video</div>
-<a href="https://youtu.be/a6bZZtHscws
-" target="_blank"><img src="https://i9.ytimg.com/vi/a6bZZtHscws/mqdefault.jpg?v=638eedcd&sqp=CKDau5wG&rs=AOn4CLAxjiUVfDtX_F3YjF5IcYEzMEguhg" 
-alt="Video" width="1280" height="720" border="10" /></a>
+<a href="https://youtu.be/QixSkY5JUoE
+" target="_blank"><img src="https://raw.githubusercontent.com/burakcancinar/Boiler-Cover-Detection/main/screen2.jpg" 
+alt="Video" width="1280" height="600" border="10" /></a>
