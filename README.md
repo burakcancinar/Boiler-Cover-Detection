@@ -21,7 +21,7 @@
 >This project uses yolov5 and custom dataset to detect open cover boiler and closed cover boiler. I made a custom dataset for this project
 >Some images for training data
 
-![](screen2.jpg)
+
 
 
 
@@ -44,8 +44,3 @@
 
 ```
 
-
-## <div align="center">Youtube Video</div>
-<a href="https://youtu.be/QixSkY5JUoE
-" target="_blank"><img src="https://raw.githubusercontent.com/burakcancinar/Boiler-Cover-Detection/main/screen2.jpg" 
-alt="Video" width="1280" height="600" border="10" /></a>
