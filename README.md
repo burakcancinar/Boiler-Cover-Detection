@@ -1,4 +1,5 @@
-# Boiler-Cover-Detection
+# Chemical Container Cover Detection
+
 <div align="left">
   <p>
     <a align="left" href="http://egerobot.com.tr" target="_blank">
@@ -17,8 +18,8 @@
     <a href="https://www.kaggle.com/ultralytics/yolov5"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
   </div>
 
-## <div align="left">Chemical Boiler Cover Detection</div>
->This project uses yolov5 and custom dataset to detect open cover boiler and closed cover boiler. I made a custom dataset for this project
+## <div align="left">Chemical Container Cover Detection</div>
+>This project uses yolov5 and custom dataset to detect open cover container and closed cover container. I made a custom dataset for this project
 >Some images for training data
 
 
